@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: af35318d-2434-905c-4e09-59d9c43798ae
 title: Books of Interest
 uid: aa03ca14-fe4b-c4e7-4d40-04a339fa46b9

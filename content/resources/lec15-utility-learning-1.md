@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 15: Utility from Beliefs; Learning I'
 uid: efe445fc-675e-f651-ac5e-8fd77bf31336
 video_files:
   archive_url: https://archive.org/download/MIT14.13S20/MIT14_13S20_lec15_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/14-13-psychology-and-economics-spring-2020/633179101c9b56598b2bc60c0950e037_j9Zeole0bYg.vtt
+  video_captions_file: /courses/14-13-psychology-and-economics-spring-2020/633179101c9b56598b2bc60c0950e037_j9Zeole0bYg.vtt
   video_thumbnail_file: https://img.youtube.com/vi/j9Zeole0bYg/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/14-13-psychology-and-economics-spring-2020/d275c334ae891779905c153f2e5fe340_j9Zeole0bYg.pdf
+  video_transcript_file: /courses/14-13-psychology-and-economics-spring-2020/d275c334ae891779905c153f2e5fe340_j9Zeole0bYg.pdf
 video_metadata:
   youtube_id: j9Zeole0bYg
 ---

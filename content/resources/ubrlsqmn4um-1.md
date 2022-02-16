@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-13-psychology-and-economics-spring-2020/a1d7c7b41873bb30f5703efcc99a874a_UbRlSqmN4uM.pdf
+file: /media/courses/14-13-psychology-and-economics-spring-2020/a1d7c7b41873bb30f5703efcc99a874a_UbRlSqmN4uM.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: a1d7c7b4-1873-bb30-f570-3efcc99a874a

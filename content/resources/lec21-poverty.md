@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 21: Poverty through the Lens of Psychology'
 uid: ef15738a-47c5-71af-008b-5f019448e98d
 video_files:
   archive_url: https://archive.org/download/MIT14.13S20/MIT14_13S20_lec21_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/14-13-psychology-and-economics-spring-2020/57c4f3509e755723a0a906af1a258e18_Re2lkF0vgQw.vtt
+  video_captions_file: /courses/14-13-psychology-and-economics-spring-2020/57c4f3509e755723a0a906af1a258e18_Re2lkF0vgQw.vtt
   video_thumbnail_file: https://img.youtube.com/vi/Re2lkF0vgQw/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/14-13-psychology-and-economics-spring-2020/68c083e57dc5e82b6c60c5db4c20da63_Re2lkF0vgQw.pdf
+  video_transcript_file: /courses/14-13-psychology-and-economics-spring-2020/68c083e57dc5e82b6c60c5db4c20da63_Re2lkF0vgQw.pdf
 video_metadata:
   youtube_id: Re2lkF0vgQw
 ---
