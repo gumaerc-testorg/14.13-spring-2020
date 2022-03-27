@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Problem Sets
 parent_type: CourseSection
+parent_uid: 731831b3-3564-ab17-c02f-1d9ead7c5f30
 resourcetype: Document
 title: 14.13 S20 Problem Set 2
 uid: e9a55462-b3b3-e460-cb5b-e8aeaf0978e1

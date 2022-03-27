@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Recitation '
 parent_type: CourseSection
+parent_uid: b2f760a7-6602-c9ba-0080-008ffa2d8c4b
 resourcetype: Document
 title: 14.13 Spring 2020 Recitation 4
 uid: 7e9e5918-1d63-8cf2-2b88-c0d1f3b82bcd
