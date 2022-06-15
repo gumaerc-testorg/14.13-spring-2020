@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In the first half of this video, Prof. Schilbach continues the discussion on gender from lecture 18. He then transitions to talk about non-standard decision-making, specifically defaults, nudges, and frames.
 
 **Instructor:** Prof. Frank Schilbach
+
+
+

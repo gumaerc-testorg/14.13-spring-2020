@@ -1,5 +1,6 @@
 ---
 content_type: video_gallery
+description: 'This section contains all of the videos that were recorded of the course. '
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos

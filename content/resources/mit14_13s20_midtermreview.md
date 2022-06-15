@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/14-13-psychology-and-economics-spring-2020/748eab1df9e51bf3133d9f7f75d1e8ad_MIT14_13S20_midtermreview.pdf
+file: /courses/14-13-psychology-and-economics-spring-2020/748eab1df9e51bf3133d9f7f75d1e8ad_MIT14_13S20_midtermreview.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

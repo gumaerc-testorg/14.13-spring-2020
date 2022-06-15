@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -29,3 +30,6 @@ video_metadata:
 **Instructor:** Prof. Frank Schilbach
 
 **Note:** In March 2020, MIT students were sent home because of the COVID-19 pandemic, and classes were taught virtually. For lecture 12 and 13, Prof. Schilbach continued to teach from the classroom on campus, until he began teaching via Zoom starting at the mid-term review.
+
+
+

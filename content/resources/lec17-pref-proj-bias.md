@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, Prof. Schilbach discusses preference changes, where people's preferences, sometimes unpredictably, change over time. He also covers projection bias, which is when someone is unable to predict their own preferences.
 
 **Instructor:** Prof. Frank Schilbach
+
+
+

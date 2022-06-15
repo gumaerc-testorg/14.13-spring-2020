@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains a list of books the students'' might want to read
+  for background information. '
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

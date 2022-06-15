@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this video, Prof. Schilbach provides a review for the mid-term exam. He covers both the types of questions students will encounter and what content they need to know.
 
 **Instructor:** Prof. Frank Schilbach
+
+
+

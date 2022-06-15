@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this first video, Prof. Frank Schilbach introduces the topic of Psychology and Economics, a field that studies the influences of psychological and economic factors on behaviors.
 
 **Instructor:** Prof. Frank Schilbach
+
+
+

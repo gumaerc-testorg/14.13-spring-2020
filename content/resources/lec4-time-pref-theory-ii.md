@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In lecture 4, Prof. Schilbach continues to explain the time preference theory, including exponential discounting, quasi-hyperbolic discounting, and sophistication vs. naivete.
 
 **Instructor:** Prof. Frank Schilbach
+
+
+

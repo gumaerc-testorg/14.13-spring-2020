@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, Prof. Shilbach continues the discussion about social preferences. He explains what social preferences are, how we measure them, and if social preferences are malleable. The instructor explores two types of evidence: lab experiments and field evidence.
 
 **Instructor:** Prof. Frank Schilbach
+
+
+

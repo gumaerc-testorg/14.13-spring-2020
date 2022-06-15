@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/14-13-psychology-and-economics-spring-2020/f4deb2957bef0503243a37b22dc207ed_S6JHQ3-bsHk.srt
+file: /courses/14-13-psychology-and-economics-spring-2020/f4deb2957bef0503243a37b22dc207ed_S6JHQ3-bsHk.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

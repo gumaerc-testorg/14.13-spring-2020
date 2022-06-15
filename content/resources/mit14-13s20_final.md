@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/14-13-psychology-and-economics-spring-2020/ac689ac52458f27b3744e9800c3a1472_MIT14-13s20_final.pdf
+file: /courses/14-13-psychology-and-economics-spring-2020/ac689ac52458f27b3744e9800c3a1472_MIT14-13s20_final.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

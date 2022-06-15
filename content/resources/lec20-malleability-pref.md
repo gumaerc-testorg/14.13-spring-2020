@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this video, Prof. Schilbach finishes the topic of defaults from lecture 19. He then continues to talk about malleability and inaccessibility of preferences.
 
 **Instructor:** Prof. Frank Schilbach
+
+
+
