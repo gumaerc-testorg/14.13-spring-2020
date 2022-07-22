@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This section contains information about the details of the class such
+  as meeting times, prerequisites, grading and other policies. '
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus and Calendar
 uid: de3c3a71-d600-5928-bb4e-577e0088365c
 ---
@@ -14,12 +18,12 @@ Recitations: 1 session / week, 1 hour / session
 Prerequisites
 -------------
 
-As the class is considering deviations from mainstream models of economics, a solid grasp of these models is essential for mastering the material. Therefore, _[14.01 Principles of Microeconomics](/courses/14-01sc-principles-of-microeconomics-fall-2011/)_ or an equivalent introductory microeconomics course is a prerequisite for this class. 
+As the class is considering deviations from mainstream models of economics, a solid grasp of these models is essential for mastering the material. Therefore, _[14.01 Principles of Microeconomics](/courses/14-01sc-principles-of-microeconomics-fall-2011)_ or an equivalent introductory microeconomics course is a prerequisite for this class. 
 
 Reading Materials
 -----------------
 
-There is no textbook for this course. The fairly detailed [lecture slides]({{< baseurl >}}/pages/lecture-slides) are meant to be self-explanatory, and they are complemented by recitation notes as well as by a set of readings for each class, as specified in the reading list. These readings will feature in lectures, quizzes, exams, and problem sets. If a reading is marked as required, you are responsible for preparing the paper prior to class, which means reading the sections announced in class, usually the abstract, introduction, and selected sections of the paper.
+There is no textbook for this course. The fairly detailed {{% resource_link e1460b91-78ed-04f1-60e8-9963055ce410 "lecture slides" %}} are meant to be self-explanatory, and they are complemented by recitation notes as well as by a set of readings for each class, as specified in the reading list. These readings will feature in lectures, quizzes, exams, and problem sets. If a reading is marked as required, you are responsible for preparing the paper prior to class, which means reading the sections announced in class, usually the abstract, introduction, and selected sections of the paper.
 
 Class Attendance
 ----------------
@@ -28,7 +32,7 @@ Given that the class does not follow a textbook, most of the course materials wi
 
 ### Scheduling Note
 
-Due to the COVID-19 pandemic, students were sent home from campus halfway through the Spring 2020 semester.  The first half of the [video lectures]({{< baseurl >}}/video_galleries/video-lectures) were taught live on campus, but starting at the midterm review, classes were taught virtually.  
+Due to the COVID-19 pandemic, students were sent home from campus halfway through the Spring 2020 semester.  The first half of the {{% resource_link fbff7337-c706-c621-94e6-2a5cacd0b9ee "video lectures" %}} were taught live on campus, but starting at the midterm review, classes were taught virtually.  
 
 Laptop Policy
 -------------
