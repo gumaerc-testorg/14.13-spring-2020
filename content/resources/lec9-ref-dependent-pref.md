@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** In this video, Prof. Schilbach explains reference-dependent preferences, a central principle in prospect theory, that is, a person evaluates outcomes and expresses preferences relative to an existing reference point.
 
 **Instructor:** Prof. Frank Schilbach
-
-
 

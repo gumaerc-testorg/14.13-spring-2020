@@ -5,6 +5,7 @@ file: /courses/14-13-psychology-and-economics-spring-2020/748eab1df9e51bf3133d9f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection

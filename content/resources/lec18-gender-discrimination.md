@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** In this video, Prof. Schilbach explains the concepts of gender and identity in relation to economics. Topics include the gender gap, technological solutions, beliefs, and gender identity norms.
 
 **Instructor:** Prof. Frank Schilbach
-
-
 

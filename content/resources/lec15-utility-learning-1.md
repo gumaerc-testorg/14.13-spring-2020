@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** In this video, the professor discusses why people miss information and fail to learn. People derive utility from (wrong) beliefs. Specifically the instructor explains anticipatory utility and ego utility.
 
 **Instructor:** Prof. Frank Schilbach
-
-
 

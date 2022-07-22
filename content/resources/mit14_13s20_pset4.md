@@ -5,6 +5,7 @@ file: /courses/14-13-psychology-and-economics-spring-2020/a0b0ed63849f5ac2024e31
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Problem Sets
 parent_type: CourseSection

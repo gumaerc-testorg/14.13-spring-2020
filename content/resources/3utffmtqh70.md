@@ -4,6 +4,7 @@ description: ''
 file: /courses/14-13-psychology-and-economics-spring-2020/bf9780abc8e5b8fb9507699a9497c4eb_3UTfFMTqH70.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
