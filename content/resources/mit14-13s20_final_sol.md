@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-13-psychology-and-economics-spring-2020/77a9af3876bcfdeb059863441056234b_MIT14-13s20_final_sol.pdf
+file_size: 334825
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

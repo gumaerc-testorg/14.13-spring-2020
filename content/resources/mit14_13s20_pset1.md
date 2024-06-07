@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-13-psychology-and-economics-spring-2020/22241101bcf1527b05169aefb75b3bc5_MIT14_13s20_pset1.pdf
+file_size: 199891
 file_type: application/pdf
 learning_resource_types:
 - Assignments
