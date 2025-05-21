@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/14-13-psychology-and-economics-spring-2020/a0b0ed63849f5ac2024e31b0f238c82f_MIT14_13s20_pset4.pdf
+file: /courses/14-13-psychology-and-economics-spring-2020/a0b0ed63849f5ac2024e31b0f238c82f_MIT14_13s20_pset4.pdf
 file_size: 241072
 file_type: application/pdf
 learning_resource_types:
