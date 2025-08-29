@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/14-13-psychology-and-economics-spring-2020/37002e554d797786d4bfc1ca6aeb7653_l7mu7-YNSg0.pdf
+file: /ol-ocw-studio-app/courses/14-13-psychology-and-economics-spring-2020/37002e554d797786d4bfc1ca6aeb7653_l7mu7-YNSg0.pdf
 file_size: 108881
 file_type: application/pdf
 learning_resource_types: []
