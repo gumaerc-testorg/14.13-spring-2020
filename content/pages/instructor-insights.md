@@ -10,4 +10,4 @@ Do you always make the best possible choices, even when you’re stressed or sho
 
 In the episode of the Chalk Radio podcast embedded below, Prof. Schilbach discusses how psychologically-informed interventions can not only boost people’s productivity, earnings, and savings, but can even increase their tendency toward benevolence and cooperation. As he puts it, while economists have not ignored mental health altogether, they have tended to view it instrumentally, in terms of its effects on productivity or financial stability. It would be better, he suggests, to view mental health as valuable for its own sake, as an inherent element of overall well-being–which is why he prioritizes students’ mental health by making assignments due not first thing in the morning but at 6 or 8 PM!
 
-{{< simplecast d54f84d2-505d-4029-ba79-cf2f51034a96 >}}
+{{< resource uuid="efc5637d-4a1e-4f5d-8b0e-96c9cd9bc12a" >}}
